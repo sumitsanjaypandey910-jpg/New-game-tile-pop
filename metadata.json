@@ -1,0 +1,6 @@
+{
+  "name": "PulseHop",
+  "description": "Mobile-first 3D rhythm ball-hopping arcade game with procedural EDM tracks, beat-synced neon tiles, and custom song support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
